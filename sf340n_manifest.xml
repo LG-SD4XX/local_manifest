@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1"/> 
+  <project name="LG-SD4XX/android_device_lge_sd4xx-common" path="device/lge/sd4xx-common" remote="github" revision="cm-14.1-new" />
+  <project name="LG-SD4XX/android_device_lge_sf340n" path="device/lge/sf340n" remote="github" revision="cm-14.1-new" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+
+  <project name="LG-SD4XX/android_vendor_lge_sf340n" path="vendor/lge/sf340n" remote="github" revision="cm-14.1" />
+  <project name="LG-SD4XX/android_vendor_lge_sd4xx-common" path="vendor/lge/sd4xx-common" remote="github" revision="cm-14.1" />
+
+  <project name="deadman96385/android_kernel_lge_sd4xx-common" path="kernel/lge/sd4xx-common" remote="private" revision="cm-14.1" />
+
+  <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="cm-14.1" />
+</manifest>
