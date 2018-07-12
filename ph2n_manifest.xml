@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LG-SD4XX/android_device_lge_sd4xx-common" path="device/lge/sd4xx-common" remote="github" revision="cm-14.1-new" />
+  <project name="LG-SD4XX/android_device_lge_sd4xx-common" path="device/lge/sd4xx-common" remote="github" revision="cm-14.1" />
   <project name="LG-SD4XX/android_device_lge_ph2n" path="device/lge/ph2n" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
