@@ -5,8 +5,8 @@
   <project name="LG-SD4XX/android_device_lge_lv517" path="device/lge/lv517" remote="github" revision="cm-14.1-new" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
 
-  <project name="LG-SD4XX/android_vendor_lge_lv517" path="vendor/lge/lv517" remote="github" revision="cm-14.1" />
-  <project name="LG-SD4XX/android_vendor_lge_sd4xx-common" path="vendor/lge/sd4xx-common" remote="github" revision="cm-14.1" />
+  <project name="LG-SD4XX/android_vendor_lge_lv517" path="vendor/lge/lv517" remote="github" revision="cm-14.1-64-gpstest" />
+  <project name="LG-SD4XX/android_vendor_lge_sd4xx-common" path="vendor/lge/sd4xx-common" remote="github" revision="cm-14.1-64-gpstest" />
 
   <project name="LG-SD4XX/android_kernel_lge_sd4xx-common" path="kernel/lge/sd4xx-common" remote="github" revision="cm-14.1" />
 
